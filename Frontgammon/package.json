@@ -10,8 +10,10 @@
     "name": "jon.hunt"
   },
   "dependencies": {
+    "angular": "^1.6.2",
     "body-parser": "^1.15.0",
     "cookie-parser": "^1.4.0",
+    "createjs-easeljs": "^0.8.2",
     "debug": "^2.2.0",
     "express": "^4.14.0",
     "morgan": "^1.7.0",
